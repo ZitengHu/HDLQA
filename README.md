@@ -8,7 +8,6 @@ This repository contains the dataset and source code for the paper *"When LLMs O
   - `clean_tags/` — data cleaning and filtering scripts (e.g., `clean_tags_V3.py`);
   - `dataset/` — task‑type classification scripts (e.g., `llm_class.py`);
   - `multi-agent/` — complete pipeline for the multi‑agent framework (e.g., `pipeline.py`).
-- **Other directories** (e.g., `results/` or `logs/`) may be created automatically during execution to store outputs and intermediate files.
 
 
 ## Dataset
